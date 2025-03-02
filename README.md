@@ -22,9 +22,9 @@ I’m a **Data Science enthusiast** with a passion for using technology to drive
 - **Falcon 9 Data Science Capstone:** Analyzing and predicting data related to SpaceX Falcon 9 launches.  
 - **Employee Turnover Prediction Model:** A machine learning model predicting employee turnover, with a small interactive dashboard to visualize turnover predictions and key insights.  
 
-## 🏆 Certifications & Specializations
+## 🏆 Certifications
 
-### My Specializations:
+### My Certifications:
 - **Python for Everybody** – University of Michigan   
 - **Machine Learning** – DeepLearning.AI, Stanford University  
 - **Applied Data Science** – IBM  
