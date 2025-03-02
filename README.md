@@ -22,41 +22,15 @@ I’m a **Data Science enthusiast** with a passion for using technology to drive
 - **Falcon 9 Data Science Capstone:** Analyzing and predicting data related to SpaceX Falcon 9 launches.  
 - **Employee Turnover Prediction Model:** A machine learning model predicting employee turnover, with a small interactive dashboard to visualize turnover predictions and key insights.  
 
-## 🛠️ My GitHub Repositories:
-Here’s a quick overview of the key repositories in my Data Science portfolio:
-
-1. **[Data Science Portfolio](https://github.com/PatrickWitzl/Data-Science-Portfolio)**  
-   A collection of my projects showcasing expertise in Machine Learning and Data Analysis.
-
-2. **[SpaceX Falcon 9 Data Science Capstone](https://github.com/PatrickWitzl/SpaceX-Falcon-9-Data-Science-Capstone)**  
-   A capstone project involving data collection, web scraping, data wrangling, and machine learning to predict SpaceX Falcon 9 launch success.
-
-3. **[Employee Turnover Prediction Model](https://github.com/PatrickWitzl/Employee-Turnover-Prediction)**  
-   A machine learning model predicting employee turnover, featuring a small interactive dashboard.
-
 ## 🏆 Certifications & Specializations
 
 ### My Specializations:
-- **Python for Everybody** – University of Michigan  
-- **Python for Cybersecurity** – Infosec  
+- **Python for Everybody** – University of Michigan   
 - **Machine Learning** – DeepLearning.AI, Stanford University  
 - **Applied Data Science** – IBM  
 - **Statistics with Python** – University of Michigan  
 
-### My Courses:
-- **Fitting Statistical Models to Data with Python** – University of Michigan (Grade Achieved: 100%)  
-- **Using Python to Access Web Data** – University of Michigan (Grade Achieved: 100%)  
-- **Capstone: Retrieving, Processing, and Visualizing Data with Python** – University of Michigan (Grade Achieved: 100%)  
-- **Advanced Learning Algorithms** – DeepLearning.AI, Stanford University (Grade Achieved: 100%)  
-- **Supervised Machine Learning: Regression and Classification** – DeepLearning.AI, Stanford University (Grade Achieved: 100%)  
-- **Inferential Statistical Analysis with Python** – University of Michigan (Grade Achieved: 100%)  
-- **Using Databases with Python** – University of Michigan (Grade Achieved: 100%)  
-- **Unsupervised Learning, Recommenders, Reinforcement Learning** – DeepLearning.AI, Stanford University (Grade Achieved: 100%)  
-- **Understanding and Visualizing Data with Python** – University of Michigan (Grade Achieved: 100%)  
-- **Python Data Structures** – University of Michigan (Grade Achieved: 100%)
-
 ## 🌍 Let's Connect
-
 
 - 📬 [LinkedIn](https://www.linkedin.com/in/patrick-witzl/)
 - 🌐 [Website/Portfolio](https://www.grow-consulting-media.de)
