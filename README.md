@@ -33,7 +33,7 @@ I’m a **Data Science enthusiast** with a passion for using technology to drive
 ## 🌍 Let's Connect
 
 - 📬 [LinkedIn](https://www.linkedin.com/in/patrickwitzl/)
-- 🌐 [Website/Portfolio](https://www.grow-consulting-media.de)
+- 🌐 [Website/Portfolio](https://www.datascienceai.solutions)
 
 ---
 
